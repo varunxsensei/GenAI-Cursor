@@ -5,6 +5,14 @@ GenAI-Cursor is a smart command-line assistant built in Python that uses OpenAI�
 
 ---
 
+## 🖥️ Demo
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## ✨ Features
 
 - 🧠 Understands natural language input
